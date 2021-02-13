@@ -12,7 +12,7 @@ export default function blogs() {
                     <div className="mt-24">
                         <div className="grid gap-4 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 text-2xl md:text-4xl">
                             <div className="w-full px-4 h-32">
-                                <a href="https://www.instagram.com/p/CHfCc4JD1EE/" target="_blank" className="text-primary font-core">
+                                <a href="https://www.instagram.com/p/CHfCc4JD1EE/" target="_blank" className="text-primary font-core dark:text-white">
                                     Clean Code JS
                                     </a>
                                 <svg width="55" height="10" viewBox="0 0 55 10" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -21,7 +21,7 @@ export default function blogs() {
 
                             </div>
                             <div className="w-full px-4 h-32">
-                                <a href="https://www.instagram.com/p/CGmENPND9GT/" target="_blank" className="text-primary font-core">
+                                <a href="https://www.instagram.com/p/CGmENPND9GT/" target="_blank" className="text-primary font-core dark:text-white">
                                     HTTP Code
                                     </a>
                                 <svg width="55" height="10" viewBox="0 0 55 10" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -30,7 +30,7 @@ export default function blogs() {
 
                             </div>
                             <div className="w-full px-4 h-32">
-                                <a href="https://www.instagram.com/p/CJyWol2D8pM/" target="_blank" className="text-primary font-core">
+                                <a href="https://www.instagram.com/p/CJyWol2D8pM/" target="_blank" className="text-primary font-core dark:text-white">
                                     Array Method JS
                                     </a>
                                 <svg width="55" height="10" viewBox="0 0 55 10" fill="none" xmlns="http://www.w3.org/2000/svg">
